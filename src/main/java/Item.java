@@ -1,0 +1,5 @@
+interface Item {
+
+    String getItemName();
+
+}
